@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local AI directories
+.comfyui
+comfyui_master.zip
+tmp_request.json
+/tmp
+

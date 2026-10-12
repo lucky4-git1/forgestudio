@@ -1,0 +1,458 @@
+[
+  {
+    "id": "e03e9011-0e5a-49d9-875c-9c813b619da1",
+    "project_id": null,
+    "type": "image",
+    "prompt": "a robot smiling",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "1:1",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/7f70b303-fa86-4a25-a664-59bc3f6f9a8f.jpg",
+    "thumbnail_url": "/generated/local-user/7f70b303-fa86-4a25-a664-59bc3f6f9a8f.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:46:18.926Z"
+  },
+  {
+    "id": "c24cce91-5813-4769-889c-27aaa58957ef",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for noa. Industry: Fashion. Style: Modern. Logo for noa Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "noa",
+        "industry": "Fashion",
+        "style": "Modern",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/aa38fac7-8e78-420c-878e-b4459bc59893.jpg",
+    "thumbnail_url": "/generated/local-user/aa38fac7-8e78-420c-878e-b4459bc59893.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:47:09.369Z"
+  },
+  {
+    "id": "ae5d46bd-319f-4332-a593-44d3a1645890",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for noa. Industry: Fashion. Style: Modern. Logo for noa Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "noa",
+        "industry": "Fashion",
+        "style": "Modern",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/ff7f149b-1640-4fc9-b403-29f685fc2485.jpg",
+    "thumbnail_url": "/generated/local-user/ff7f149b-1640-4fc9-b403-29f685fc2485.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:47:18.677Z"
+  },
+  {
+    "id": "da067c03-84b2-44c7-8f81-b7175faf3e77",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for noa. Industry: Fashion. Style: Corporate. Logo for noa Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "noa",
+        "industry": "Fashion",
+        "style": "Corporate",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/11a88464-653c-45a0-acb1-92313726842e.jpg",
+    "thumbnail_url": "/generated/local-user/11a88464-653c-45a0-acb1-92313726842e.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:47:32.105Z"
+  },
+  {
+    "id": "5d1d6956-4fe0-4fae-b1e2-0353f3afa329",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for noa. Industry: Fashion. Style: Classic. Logo for noa Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "noa",
+        "industry": "Fashion",
+        "style": "Classic",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/d4966718-5eac-416a-b4d6-d46d72ef128f.jpg",
+    "thumbnail_url": "/generated/local-user/d4966718-5eac-416a-b4d6-d46d72ef128f.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:47:48.076Z"
+  },
+  {
+    "id": "7dd5ab05-bc2f-47c5-98aa-9c7542b0a17e",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for noa. Industry: Fashion. Style: Bold. Logo for noa Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "noa",
+        "industry": "Fashion",
+        "style": "Bold",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/cfaec902-1d72-405a-9351-9d97a1c5aa6a.jpg",
+    "thumbnail_url": "/generated/local-user/cfaec902-1d72-405a-9351-9d97a1c5aa6a.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:47:56.701Z"
+  },
+  {
+    "id": "02cfb8ab-19e3-44da-a42d-69da9c7d6f79",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for pixel forge. Audience:  conpanies wd no websitws . Goal: Sales. social-post High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "pixel forge",
+        "audience": " conpanies wd no websitws ",
+        "goal": "Sales",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/06ac7668-bda3-442e-beb4-37910b2c9b9a.jpg",
+    "thumbnail_url": "/generated/local-user/06ac7668-bda3-442e-beb4-37910b2c9b9a.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:55:52.832Z"
+  },
+  {
+    "id": "4c1d5a60-88b0-4c7c-a380-b61109f65edc",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for pixel forge. Audience:  conpanies wd no websitws . Goal: Promotion. banner High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "pixel forge",
+        "audience": " conpanies wd no websitws ",
+        "goal": "Promotion",
+        "aspectRatio": "16:9",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/e84d7eb9-d16b-43a7-bff9-e68b3927398e.jpg",
+    "thumbnail_url": "/generated/local-user/e84d7eb9-d16b-43a7-bff9-e68b3927398e.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:57:25.376Z"
+  },
+  {
+    "id": "7993a80e-9813-47b0-a464-4a51efac8311",
+    "project_id": "3ac0c4c9-83c9-4c55-9385-d74a0ae7258a",
+    "type": "image",
+    "prompt": "a boy proposing to a girl",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "1:1",
+        "style": "Digital Art",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/01b92238-299d-4641-8a6e-d92c73c45a9f.jpg",
+    "thumbnail_url": "/generated/local-user/01b92238-299d-4641-8a6e-d92c73c45a9f.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-08T11:58:24.696Z"
+  },
+  {
+    "id": "4b262ab0-c3ac-4e38-bebd-84960b180693",
+    "project_id": null,
+    "type": "image",
+    "prompt": "robot ruling the world\n",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "1:1",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/bab20b0a-97dd-471a-b2df-413693b8bcd4.jpg",
+    "thumbnail_url": "/generated/local-user/bab20b0a-97dd-471a-b2df-413693b8bcd4.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-11T07:13:46.025Z"
+  },
+  {
+    "id": "2ddc3417-ca0a-40f3-bd9d-e811ff1ca760",
+    "project_id": "3ac0c4c9-83c9-4c55-9385-d74a0ae7258a",
+    "type": "video",
+    "prompt": "a puppy dancing",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-video",
+      "options": {
+        "duration": 5,
+        "providerApiKey": ""
+      }
+    },
+    "file_url": "/generated/local-user/828209cd-ccb7-4f22-998a-b1bad29e3a2a.png",
+    "thumbnail_url": null,
+    "user_id": "local-user",
+    "created_at": "2026-06-11T07:22:42.370Z"
+  },
+  {
+    "id": "761dc250-41ed-4e5e-8b8a-49ce7a0bc4e4",
+    "project_id": null,
+    "type": "image",
+    "prompt": "a cinematic shot of taj-mahal",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "16:9",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T08:00:13.330Z"
+    },
+    "file_url": "/generated/local-user/5ae1fd1f-1738-4890-8db2-76d294e65b4a.jpg",
+    "thumbnail_url": "/generated/local-user/5ae1fd1f-1738-4890-8db2-76d294e65b4a.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T08:00:13.343Z"
+  },
+  {
+    "id": "b6930c0c-7cdd-4448-b192-2e300f396f9d",
+    "project_id": null,
+    "type": "image",
+    "prompt": "a robo",
+    "metadata": {
+      "provider": "comfyui",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "1:1",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T08:54:26.651Z"
+    },
+    "file_url": "/generated/local-user/e88408cd-bf77-4a7e-981f-6c2f4ccd62b6.png",
+    "thumbnail_url": "/generated/local-user/e88408cd-bf77-4a7e-981f-6c2f4ccd62b6.png",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T08:54:26.657Z"
+  },
+  {
+    "id": "8445a9d4-5484-4096-bf2d-bf0ef39389ea",
+    "project_id": null,
+    "type": "logo",
+    "prompt": "Create a premium transparent PNG logo for pixel. Industry: Fashion. Style: Modern. Logo for pixel Centered mark, clean typography, no mockup, no background.",
+    "metadata": {
+      "provider": "comfyui",
+      "generation_type": "logo",
+      "options": {
+        "brandName": "pixel",
+        "industry": "Fashion",
+        "style": "Modern",
+        "negativePrompt": "mockup, photo of business card, busy background",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T09:35:05.380Z"
+    },
+    "file_url": "/generated/local-user/e493d592-417b-473e-867c-cedc15e7c3f8.png",
+    "thumbnail_url": "/generated/local-user/e493d592-417b-473e-867c-cedc15e7c3f8.png",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T09:35:05.397Z"
+  },
+  {
+    "id": "52787d31-df97-423c-b5c0-dd6f91d2d42c",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a cinematic YouTube thumbnail for a futuristic AI startup founder standing on a rooftop overlooking a neon cyberpunk city at sunset. The founder is wearing a black jacket with glowing blue accents and holding a transparent holographic tablet displaying analytics charts. Flying drones move through the skyline, while giant digital billboards advertise AI products. Dramatic volumetric lighting, orange and blue color grading, shallow depth of field, ultra-detailed facial features, realistic skin texture, reflections on glass buildings, dynamic composition, 35mm lens, professional photography, high contrast, sharp focus, masterpiece quality, 8K resolution. The mood should feel ambitious, innovative, and inspiring.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "16:9",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:16:13.096Z"
+    },
+    "file_url": "/generated/local-user/d6c8dcce-bc5d-4a88-8e4f-959ed3d8c6c5.jpg",
+    "thumbnail_url": "/generated/local-user/d6c8dcce-bc5d-4a88-8e4f-959ed3d8c6c5.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:16:13.101Z"
+  },
+  {
+    "id": "0de4108b-5592-4c5f-9550-024887bc2b57",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Design a luxury modern villa built into a tropical cliffside overlooking the ocean. Infinity pool extending toward the horizon, floor-to-ceiling glass walls, warm interior lighting, palm trees swaying in the wind, cinematic sunset sky, photorealistic architecture visualization, drone aerial perspective, ultra-realistic materials, ray-traced reflections, global illumination, magazine-quality render, 8K.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "text-to-image",
+      "options": {
+        "aspectRatio": "1:1",
+        "style": "Photorealistic",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:17:49.612Z"
+    },
+    "file_url": "/generated/local-user/421a647c-0075-4aba-938f-2da889dd1e0e.jpg",
+    "thumbnail_url": "/generated/local-user/421a647c-0075-4aba-938f-2da889dd1e0e.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:17:49.618Z"
+  },
+  {
+    "id": "c0fbe6a7-7da1-477b-b8a2-f6eb70ba73e4",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Brand Awareness. social-post High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Brand Awareness",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:20:00.126Z"
+    },
+    "file_url": "/generated/local-user/05493adc-5576-4380-8e50-1d6fd896cb48.jpg",
+    "thumbnail_url": "/generated/local-user/05493adc-5576-4380-8e50-1d6fd896cb48.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:20:00.130Z"
+  },
+  {
+    "id": "cd534851-c725-4e39-8862-45152f01bdba",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Brand Awareness. ad High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Brand Awareness",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:20:13.813Z"
+    },
+    "file_url": "/generated/local-user/ca9f3b01-8bf1-409a-aa4a-c9561c9bafb6.jpg",
+    "thumbnail_url": "/generated/local-user/ca9f3b01-8bf1-409a-aa4a-c9561c9bafb6.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:20:13.893Z"
+  },
+  {
+    "id": "6ade7a56-1ede-4739-aa37-796887b88707",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Promotion. banner High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Promotion",
+        "aspectRatio": "16:9",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:21:59.627Z"
+    },
+    "file_url": "/generated/local-user/eb3985da-4168-4578-bd3e-ba9d3ac31f6b.jpg",
+    "thumbnail_url": "/generated/local-user/eb3985da-4168-4578-bd3e-ba9d3ac31f6b.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:21:59.633Z"
+  },
+  {
+    "id": "deea8875-b798-4d61-884c-3ff91692baf3",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Sales. social-post High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Sales",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:27:25.160Z"
+    },
+    "file_url": "/generated/local-user/119c30a8-7644-4d19-8b0c-4cf2dadde756.jpg",
+    "thumbnail_url": "/generated/local-user/119c30a8-7644-4d19-8b0c-4cf2dadde756.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:27:25.164Z"
+  },
+  {
+    "id": "a2bf4847-29b1-4fc2-b6fa-4781155e7728",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Launch. social-post High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Launch",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:28:00.761Z"
+    },
+    "file_url": "/generated/local-user/1aebaa1a-22ff-4f19-9e41-b6421c8678b6.jpg",
+    "thumbnail_url": "/generated/local-user/1aebaa1a-22ff-4f19-9e41-b6421c8678b6.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:28:00.765Z"
+  },
+  {
+    "id": "f5f4b3c6-2efa-42b9-8c36-f9834d056344",
+    "project_id": null,
+    "type": "image",
+    "prompt": "Create a production-ready marketing creative for PulseFit Pro – AI-powered fitness smartwatch. Audience: Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers. Goal: Engagement. social-post High quality advertising visual, polished composition, usable for social media.",
+    "metadata": {
+      "provider": "huggingface",
+      "generation_type": "marketing-creative",
+      "options": {
+        "product": "PulseFit Pro – AI-powered fitness smartwatch",
+        "audience": "Age: 22–40Age: 22–40 Working professionals Gym enthusiasts and runners People interested in health tracking and productivity Mid-to-high income consumers",
+        "goal": "Engagement",
+        "aspectRatio": "1:1",
+        "providerApiKey": ""
+      },
+      "generated_at": "2026-06-15T11:28:27.397Z"
+    },
+    "file_url": "/generated/local-user/4b24fd91-c13f-497f-8813-ed6895dfb56d.jpg",
+    "thumbnail_url": "/generated/local-user/4b24fd91-c13f-497f-8813-ed6895dfb56d.jpg",
+    "user_id": "local-user",
+    "created_at": "2026-06-15T11:28:27.401Z"
+  }
+]

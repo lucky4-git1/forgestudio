@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ff12d961-9a4f-4ec0-a731-6eecf0100c2c",
+    "user_id": "local-user",
+    "name": "hhh",
+    "colors": [
+      "#7c3aed",
+      "#06b6d4",
+      "#f8fafc"
+    ],
+    "fonts": [
+      "Inter"
+    ],
+    "logos": [],
+    "created_at": "2026-06-11T11:11:20.520Z"
+  }
+]

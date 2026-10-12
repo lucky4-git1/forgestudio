@@ -1,0 +1,572 @@
+[
+  {
+    "id": "f011b0f2-305f-4ff2-bbb8-b200c2c50876",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T09:48:23.430Z",
+    "completed_at": "2026-06-08T09:48:23.507Z"
+  },
+  {
+    "id": "3690e8f1-6984-42ba-ae3f-3761eccafb92",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T09:51:37.825Z",
+    "completed_at": "2026-06-08T09:51:37.853Z"
+  },
+  {
+    "id": "f8fb3198-437e-4f9c-a2cc-160d6d20397f",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T09:53:19.806Z",
+    "completed_at": "2026-06-08T09:53:19.829Z"
+  },
+  {
+    "id": "32c27b54-9dcb-4058-a671-9dba1a55534d",
+    "user_id": "local-user",
+    "provider": "mock",
+    "generation_type": "logo",
+    "credits_used": 2,
+    "status": "completed",
+    "created_at": "2026-06-08T09:53:49.150Z",
+    "completed_at": "2026-06-08T09:53:49.168Z"
+  },
+  {
+    "id": "1d7db71c-7585-413c-a1c4-7eb40a9786e3",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:45:04.017Z",
+    "completed_at": null
+  },
+  {
+    "id": "ecfad8b2-69c9-457a-9a34-fc1507c47d3e",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:45:21.001Z",
+    "completed_at": null
+  },
+  {
+    "id": "2aa06752-c752-49f3-b77a-f5a28ed72301",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:46:14.584Z",
+    "completed_at": null
+  },
+  {
+    "id": "1d7bdde2-d081-4d53-92f4-0a7b1679851b",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:47:05.608Z",
+    "completed_at": null
+  },
+  {
+    "id": "66a37e63-d767-4898-8bf4-9d43513290b6",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:47:14.781Z",
+    "completed_at": null
+  },
+  {
+    "id": "46da98fb-0a07-423f-aeb2-b9c5e66f4129",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:47:28.848Z",
+    "completed_at": null
+  },
+  {
+    "id": "5ed43948-98e0-4eb5-ba36-69002d3700dc",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:47:43.912Z",
+    "completed_at": null
+  },
+  {
+    "id": "6b090785-4c03-4399-a0f4-b30680f1765b",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:47:53.414Z",
+    "completed_at": null
+  },
+  {
+    "id": "a8a2d2ef-57c2-4c63-920d-9620c1318e15",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:49:51.482Z",
+    "completed_at": "2026-06-08T11:49:51.503Z"
+  },
+  {
+    "id": "a6197aff-4a2f-4ad5-a532-ddbc0bf11ef2",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:49:56.040Z",
+    "completed_at": "2026-06-08T11:49:56.050Z"
+  },
+  {
+    "id": "59eead93-7cc8-4274-9cce-5a6c43b779d0",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:49:58.183Z",
+    "completed_at": "2026-06-08T11:49:58.198Z"
+  },
+  {
+    "id": "cc6c99da-071a-4ecd-8c72-7c550ba7f2d6",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:50:01.212Z",
+    "completed_at": "2026-06-08T11:50:01.231Z"
+  },
+  {
+    "id": "f383d2bb-1b84-40e3-ba73-eb4facbb22fd",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:50:04.900Z",
+    "completed_at": "2026-06-08T11:50:04.909Z"
+  },
+  {
+    "id": "95663163-cab1-4961-95f8-0c4eafd5314b",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo-animation",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-08T11:54:20.366Z",
+    "completed_at": "2026-06-08T11:54:20.389Z"
+  },
+  {
+    "id": "69aa771c-6751-4052-8d9a-9a3c6f8d6910",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:55:48.474Z",
+    "completed_at": null
+  },
+  {
+    "id": "fef94ccf-bbab-4b80-b234-036845b5b9f6",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:57:20.891Z",
+    "completed_at": null
+  },
+  {
+    "id": "6a626bbc-73f0-4227-a094-36b0ebcfd011",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-08T11:58:19.253Z",
+    "completed_at": null
+  },
+  {
+    "id": "4ed42021-5ad2-4f6f-af6a-0248f9aae10a",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-11T07:13:41.309Z",
+    "completed_at": null
+  },
+  {
+    "id": "ff69c76c-bb2d-4830-975f-10bbff4d7344",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-11T07:22:20.280Z",
+    "completed_at": null
+  },
+  {
+    "id": "87ae13b8-3cc8-4759-8258-5bc2fcf8b361",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:23:38.275Z",
+    "completed_at": "2026-06-11T07:23:38.665Z"
+  },
+  {
+    "id": "7b71fb18-cdb8-41ee-841f-0635d202f2a5",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:23:52.413Z",
+    "completed_at": "2026-06-11T07:23:52.692Z"
+  },
+  {
+    "id": "7869efb5-9cef-46c1-b1f2-ad9f976cb1b8",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:31:41.750Z",
+    "completed_at": "2026-06-11T07:31:42.336Z"
+  },
+  {
+    "id": "6c2cfb75-877a-40f5-888b-0f391dc3e7c2",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:32:08.845Z",
+    "completed_at": "2026-06-11T07:32:09.418Z"
+  },
+  {
+    "id": "f13fc15e-9f75-4a24-b4b8-4e0c43625fc8",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:32:12.401Z",
+    "completed_at": "2026-06-11T07:32:12.724Z"
+  },
+  {
+    "id": "41e04567-e092-438b-9652-94f6065aefc2",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:32:39.584Z",
+    "completed_at": "2026-06-11T07:32:40.201Z"
+  },
+  {
+    "id": "519f5088-401e-49fd-af9f-c8044bfa9ab1",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:32:42.737Z",
+    "completed_at": "2026-06-11T07:32:43.030Z"
+  },
+  {
+    "id": "66b8e9b1-3f8d-40e5-a046-ec1c61af1d6b",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:36:16.318Z",
+    "completed_at": "2026-06-11T07:36:16.772Z"
+  },
+  {
+    "id": "c9d68041-adbf-442b-ba34-7d0fbc7800f6",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:56:31.196Z",
+    "completed_at": "2026-06-11T07:56:31.521Z"
+  },
+  {
+    "id": "48664309-7506-4f3d-a803-f0584e4f9960",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T07:56:33.619Z",
+    "completed_at": "2026-06-11T07:56:33.906Z"
+  },
+  {
+    "id": "b94f5455-d6dd-4593-b50b-6987c482a1af",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T08:15:32.451Z",
+    "completed_at": "2026-06-11T08:15:33.047Z"
+  },
+  {
+    "id": "d882b17e-1925-4313-97ea-b4323179c2a7",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T08:27:30.395Z",
+    "completed_at": "2026-06-11T08:27:31.118Z"
+  },
+  {
+    "id": "f762a331-0788-4179-8ba1-b78c086c7224",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T08:27:47.616Z",
+    "completed_at": "2026-06-11T08:27:48.017Z"
+  },
+  {
+    "id": "333d6036-d119-4edc-9d30-002613ca9dac",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T08:27:59.525Z",
+    "completed_at": "2026-06-11T08:27:59.795Z"
+  },
+  {
+    "id": "d1ef3d0f-783d-4edd-9c9b-db6ddb78dae5",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T09:21:32.586Z",
+    "completed_at": "2026-06-11T09:21:33.188Z"
+  },
+  {
+    "id": "e57f25fe-33cb-4002-a2fb-e74e07399cb7",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T09:22:08.694Z",
+    "completed_at": "2026-06-11T09:22:08.720Z"
+  },
+  {
+    "id": "81139375-4451-4f28-8c3b-ead2c5283cea",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T09:36:24.918Z",
+    "completed_at": "2026-06-11T09:36:24.946Z"
+  },
+  {
+    "id": "61f36301-6528-4013-ba68-ccc6ca1403a5",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T11:35:50.797Z",
+    "completed_at": "2026-06-11T11:35:50.827Z"
+  },
+  {
+    "id": "3303f609-f0a5-49bd-a1aa-968806fd802e",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-video",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T11:36:24.636Z",
+    "completed_at": "2026-06-11T11:36:24.671Z"
+  },
+  {
+    "id": "2415dde0-2f0b-494c-8f11-ca2a933e4144",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T12:07:32.853Z",
+    "completed_at": "2026-06-11T12:07:33.546Z"
+  },
+  {
+    "id": "3156e5e1-5b59-4f6a-a3ff-364376919b60",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-11T12:08:08.516Z",
+    "completed_at": "2026-06-11T12:08:10.027Z"
+  },
+  {
+    "id": "e69e9599-6b5e-43f1-892c-b28da4d85e7b",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-15T07:49:59.294Z",
+    "completed_at": "2026-06-15T07:49:59.940Z"
+  },
+  {
+    "id": "2a1b9330-ff86-4699-af88-861d46f8a179",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T08:00:08.808Z",
+    "completed_at": null
+  },
+  {
+    "id": "18b8c265-9feb-4704-85eb-72a0e885bb30",
+    "user_id": "local-user",
+    "provider": "nvidia",
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "failed",
+    "created_at": "2026-06-15T08:04:54.379Z",
+    "completed_at": "2026-06-15T08:04:54.415Z"
+  },
+  {
+    "id": "d697cd65-3f67-46c8-9387-1e52b187c099",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T08:17:12.016Z",
+    "completed_at": null
+  },
+  {
+    "id": "b499ccb8-27da-4b29-a3a0-a090f8d7740f",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "logo",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T09:02:24.082Z",
+    "completed_at": null
+  },
+  {
+    "id": "0d2b4bde-92ba-4a37-87a7-e86b4363f69f",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:16:08.014Z",
+    "completed_at": null
+  },
+  {
+    "id": "bfe01dfb-b152-4308-b7e0-d87beddabf08",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "text-to-image",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:17:44.255Z",
+    "completed_at": null
+  },
+  {
+    "id": "372fcb0c-4a14-4d2c-b4f3-b74155dd79a5",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:19:55.406Z",
+    "completed_at": null
+  },
+  {
+    "id": "00577701-ed94-4883-bf53-bf623fdfe475",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:20:08.974Z",
+    "completed_at": null
+  },
+  {
+    "id": "84d46752-ce2c-4bed-b271-6d564c97e8e8",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:21:54.844Z",
+    "completed_at": null
+  },
+  {
+    "id": "89bfcea7-c88d-419f-a0a1-2e24471e1249",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:27:20.284Z",
+    "completed_at": null
+  },
+  {
+    "id": "ea685744-4067-43e7-bd08-58839fc7ffa8",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:27:55.477Z",
+    "completed_at": null
+  },
+  {
+    "id": "6c805267-e88e-4c98-817d-8d81494f075e",
+    "user_id": "local-user",
+    "provider": null,
+    "generation_type": "marketing-creative",
+    "credits_used": 0,
+    "status": "pending",
+    "created_at": "2026-06-15T11:28:22.737Z",
+    "completed_at": null
+  }
+]

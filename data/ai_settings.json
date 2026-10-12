@@ -1,0 +1,18 @@
+[
+  {
+    "id": "96746a44-5848-4653-bfff-437cf57d791a",
+    "user_id": "local-user",
+    "provider": "huggingface",
+    "image_model": "flux",
+    "video_model": "wan",
+    "default_aspect_ratio": "16:9",
+    "default_quality": "standard",
+    "default_style": "none",
+    "negative_prompt": "",
+    "provider_api_key": "",
+    "auto_save": true,
+    "created_at": "2026-06-08T07:40:25.929Z",
+    "updated_at": "2026-06-15T11:14:43.991Z",
+    "inference_mode": "cloud"
+  }
+]
